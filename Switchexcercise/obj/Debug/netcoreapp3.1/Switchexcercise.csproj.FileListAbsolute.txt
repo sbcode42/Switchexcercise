@@ -10,3 +10,4 @@ C:\Users\sbhop\repos\Switchexcercise\Switchexcercise\bin\Debug\netcoreapp3.1\Swi
 C:\Users\sbhop\repos\Switchexcercise\Switchexcercise\obj\Debug\netcoreapp3.1\Switchexcercise.dll
 C:\Users\sbhop\repos\Switchexcercise\Switchexcercise\obj\Debug\netcoreapp3.1\Switchexcercise.pdb
 C:\Users\sbhop\repos\Switchexcercise\Switchexcercise\obj\Debug\netcoreapp3.1\Switchexcercise.genruntimeconfig.cache
+C:\Users\sbhop\repos\Switchexcercise\Switchexcercise\obj\Debug\netcoreapp3.1\Switchexcercise.csprojAssemblyReference.cache

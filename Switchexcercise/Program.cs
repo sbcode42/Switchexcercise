@@ -12,12 +12,7 @@ namespace Switchexcercise
 
             //use a switch statement - to handle various scenarios that could occur
 
-            
-        }
-
-        public static void subjectResponses(string userSubject)
-        {
-            switch (userSubject.ToLower())
+           switch (userSubject.ToLower())
             {
                 case "english":
                     Console.WriteLine("Good to know");
